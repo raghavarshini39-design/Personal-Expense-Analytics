@@ -1,0 +1,21 @@
+Date,Category,Description,Amount,Payment_Mode,Month
+2026-01-05,Food,Groceries,250,UPI,January
+2026-01-08,Shopping,Clothes,1200,Card,January
+2026-01-12,Transport,Bus Fare,150,Cash,January
+2026-01-15,Food,Restaurant,450,UPI,January
+2026-01-20,Education,Books,800,Card,January
+2026-02-03,Food,Groceries,350,UPI,February
+2026-02-07,Transport,Auto,200,Cash,February
+2026-02-10,Shopping,Accessories,900,Card,February
+2026-02-15,Entertainment,Movie,500,UPI,February
+2026-02-20,Education,Course Fee,2000,UPI,February
+2026-03-02,Food,Restaurant,600,UPI,March
+2026-03-05,Transport,Bus Fare,180,Cash,March
+2026-03-10,Shopping,Clothes,1500,Card,March
+2026-03-15,Entertainment,Games,300,UPI,March
+2026-03-20,Food,Groceries,400,Cash,March
+2026-04-02,Education,Books,700,Card,April
+2026-04-05,Food,Restaurant,550,UPI,April
+2026-04-10,Transport,Auto,250,Cash,April
+2026-04-15,Shopping,Shoes,1800,Card,April
+2026-04-20,Entertainment,Movie,450,UPI,April
